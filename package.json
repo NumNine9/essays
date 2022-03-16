@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "firebase": "^9.6.8"
+  },
+  "name": "essays",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeNyagura/essays.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeNyagura/essays/issues"
+  },
+  "homepage": "https://github.com/georgeNyagura/essays#readme",
+  "description": ""
+}
